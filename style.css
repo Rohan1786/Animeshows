@@ -125,3 +125,8 @@ padding: 22px;
     border-radius: 22px;
     padding: 20px;
 }
+@media screen and (max-width: 768px) {
+    #head input {
+        width: 90%; /* Adjust input width for smaller screens */
+    }
+}
