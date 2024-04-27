@@ -63,6 +63,7 @@ display: flex;
     border: 1px solid #888;
     width: 22%;
     height: 55px;
+    font-family: cursive;
 
 }
 #doremon{
@@ -113,7 +114,7 @@ padding: 22px;
 
 }
 #animi{
-    padding-top: 5vw;
+    padding-top: 3vw;
     padding-bottom: 6vw;
 }
 
@@ -145,4 +146,12 @@ padding: 22px;
     text-decoration: none;
     color: #fff;
     font-family:cursive;
+}
+img{
+    border-radius: 10px;
+}
+
+#animos{
+    padding-left: 1vw;
+    padding-right: 1vw;
 }
